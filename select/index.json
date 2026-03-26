@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Tempestissimo",
+  "base_artist": "t+pazolite",
+  "createdAt": "2026-03-26T09:05:55.692248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tempestissimo",
+      "artist": "T+pazolite",
+      "has_synced": true,
+      "path": "select/01_Tempestissimo_T+pazolite.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tempestissimo (Uncut Edition)",
+      "artist": "t+pazolite",
+      "has_synced": true,
+      "path": "select/02_Tempestissimo_(Uncut_Edition)_t+pazolite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tempestissimo",
+      "artist": "t+pazolite",
+      "has_synced": true,
+      "path": "select/03_Tempestissimo_t+pazolite.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tempestissimo (Uncut Edition)",
+      "artist": "C.H.S (t+pazolite)",
+      "has_synced": true,
+      "path": "select/04_Tempestissimo_(Uncut_Edition)_C.H.S_(t+pazolite).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tempestissimo - Uncut Edition",
+      "artist": "t+pazolite",
+      "has_synced": true,
+      "path": "select/05_Tempestissimo_-_Uncut_Edition_t+pazolite.lrc"
+    }
+  ]
+}
